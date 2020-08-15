@@ -17,5 +17,7 @@ Also add any text compression algorithms you get, we can easily test and add cod
 # Encoding Algorithms
 
 1 2 Window Repeats
+
 2 XOR
+
 3 Goldman
