@@ -21,3 +21,7 @@ Also add any text compression algorithms you get, we can easily test and add cod
 2 XOR
 
 3 Goldman
+
+# Encryption 
+
+1 Symmetric Encryption (Using Fernet, Python cryptography lib)
